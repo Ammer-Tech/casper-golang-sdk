@@ -8,10 +8,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/casper-ecosystem/casper-golang-sdk/keypair"
-	"github.com/casper-ecosystem/casper-golang-sdk/keypair/ed25519"
-	"github.com/casper-ecosystem/casper-golang-sdk/serialization"
-	"github.com/casper-ecosystem/casper-golang-sdk/types"
+	"github.com/Ammer-Tech/casper-golang-sdk/keypair"
+	"github.com/Ammer-Tech/casper-golang-sdk/keypair/ed25519"
+	"github.com/Ammer-Tech/casper-golang-sdk/serialization"
+	"github.com/Ammer-Tech/casper-golang-sdk/types"
 	"golang.org/x/crypto/blake2b"
 )
 

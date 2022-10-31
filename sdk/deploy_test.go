@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/casper-ecosystem/casper-golang-sdk/keypair"
-	"github.com/casper-ecosystem/casper-golang-sdk/keypair/ed25519"
-	"github.com/casper-ecosystem/casper-golang-sdk/types"
+	"github.com/Ammer-Tech/casper-golang-sdk/keypair"
+	"github.com/Ammer-Tech/casper-golang-sdk/keypair/ed25519"
+	"github.com/Ammer-Tech/casper-golang-sdk/types"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/crypto/blake2b"
 )
